@@ -1,3 +1,4 @@
 publi void main()
-int X=1;int y=2;
+int X=1;int Y=2;
 
+Sysytem.ouy.println("print X,Y")
